@@ -19,8 +19,11 @@
   },
   "devDependencies": {
     "chai": "^2.0.0",
+    "func-comparator": "^0.6.0",
     "jshint": "^2.6.0",
+    "lodash": "^3.8.0",
     "mocha": "^2.1.0",
+    "pasync": "^1.1.0",
     "spectrophotometer": "^1.0.1"
   }
 }
